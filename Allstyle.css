@@ -265,7 +265,16 @@ picture{
 	font-size: 1.5rem !important;
 	margin-top: -10%;
 }
-
+.close-icon{
+	width: 100%;
+	display: flex;
+	justify-content: right;
+	font-size: 1.4rem;
+}
+.close-icon a{
+	text-decoration: none;
+	color: #eeeeee;
+}
 
 
 
