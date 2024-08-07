@@ -275,7 +275,11 @@ picture{
 	text-decoration: none;
 	color: #eeeeee;
 }
-
+.slider-card-top{
+	background: url(page_images/);
+	background-position: center;
+	background-size: cover;
+}
 
 
 
